@@ -1,0 +1,16 @@
+/* Revision History
+
+** DEVELOPER                    DATE            COMMENTS
+**
+** Keon Woo Park (1831319)      2020-03-03      Created print.css file
+**
+**
+*/
+
+body{
+    background-color: white;
+}
+
+img{
+    opacity: 0.3;
+}

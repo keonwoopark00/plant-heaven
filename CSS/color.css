@@ -1,0 +1,21 @@
+/* Revision History
+
+** DEVELOPER                    DATE            COMMENTS
+**
+** Keon Woo Park (1831319)      2020-03-03      Created color.css file
+**
+**
+*/
+
+
+.redColumn{
+    color: crimson;
+}
+
+.orangeColumn{
+    color: orange;
+}
+
+.greenColumn{
+    color: lightgreen;
+}
